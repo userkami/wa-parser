@@ -1,0 +1,17 @@
+{
+  "ignore_keywords": [
+    "good morning",
+    "good evening",
+    "good night",
+    "assalam",
+    "alaikum",
+    "brother",
+    "sister",
+    "dear",
+    "thanks",
+    "welcome",
+    "congratulations",
+    "best wishes",
+    "aakhri"
+  ]
+}

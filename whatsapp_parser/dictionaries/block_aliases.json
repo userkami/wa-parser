@@ -1,0 +1,35 @@
+{
+  "Q Block": [
+    "q block",
+    "block q",
+    "q blk",
+    "blk q",
+    "q-block"
+  ],
+  "AA Block": [
+    "aa block",
+    "block aa",
+    "aa blk",
+    "a a block"
+  ],
+  "J Block": [
+    "j block",
+    "block j",
+    "j blk"
+  ],
+  "C Block": [
+    "c block",
+    "block c",
+    "c-block"
+  ],
+  "B Block": [
+    "b block",
+    "block b",
+    "b-block"
+  ],
+  "D Block": [
+    "d block",
+    "block d",
+    "d-block"
+  ]
+}

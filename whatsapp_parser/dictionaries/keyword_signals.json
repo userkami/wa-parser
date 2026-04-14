@@ -1,0 +1,50 @@
+{
+  "property_offer_keywords": [
+    "available",
+    "sale",
+    "demand",
+    "asking",
+    "urgent",
+    "direct",
+    "possession",
+    "dastiyab",
+    "farosh",
+    "farokht",
+    "qeemat",
+    "file",
+    "plot",
+    "house",
+    "apartment"
+  ],
+  "buyer_requirement_keywords": [
+    "required",
+    "need",
+    "buyer need",
+    "client demand",
+    "looking for",
+    "darkaar",
+    "chahiye",
+    "zarurat"
+  ],
+  "market_update_keywords": [
+    "rate update",
+    "market down",
+    "today rate",
+    "deal closed",
+    "prices",
+    "file rate",
+    "rate change"
+  ],
+  "irrelevant_keywords": [
+    "salaam",
+    "hello",
+    "good morning",
+    "good evening",
+    "assalam",
+    "sticker",
+    "media omitted",
+    "image omitted",
+    "video omitted",
+    "contact"
+  ]
+}
